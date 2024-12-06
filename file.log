@@ -1,0 +1,40 @@
+2024-12-06 22:37:10,537 INFO loading the data....
+2024-12-06 22:37:11,760 INFO created an empty dataframe of 100000 features
+2024-12-06 22:37:46,147 INFO loading the data....
+2024-12-06 22:37:47,304 INFO created an empty dataframe of 100000 features
+2024-12-06 22:39:22,027 INFO all the entries are pushed into the dataframe successfully
+2024-12-06 22:39:23,187 INFO created an empty dataframe of 100000 features
+2024-12-06 22:39:46,675 INFO all the entries are pushed into the dataframe successfully
+2024-12-06 22:39:46,676 INFO all the files are loaded successfully and splitted into train data, valid and train label
+2024-12-06 22:45:40,337 INFO loading the data....
+2024-12-06 22:45:41,445 INFO created an empty dataframe of 100000 features
+2024-12-06 22:47:04,936 INFO loading the data....
+2024-12-06 22:47:06,067 INFO created an empty dataframe of 100000 features
+2024-12-06 22:47:59,429 INFO loading the data....
+2024-12-06 22:48:00,544 INFO created an empty dataframe of 100000 features
+2024-12-06 22:49:00,583 INFO loading the data....
+2024-12-06 22:49:01,764 INFO created an empty dataframe of 100000 features
+2024-12-06 22:50:33,580 INFO all the entries are pushed into the dataframe successfully
+2024-12-06 22:50:34,732 INFO created an empty dataframe of 100000 features
+2024-12-06 22:50:58,490 INFO all the entries are pushed into the dataframe successfully
+2024-12-06 22:50:58,490 INFO all the files are loaded successfully and splitted into train data, valid and train label
+2024-12-06 22:51:05,290 INFO decomposing our data into 5 components
+2024-12-06 22:51:09,011 INFO checking our model with logistic regression
+2024-12-06 22:51:09,015 INFO model fitted successfully 
+2024-12-06 22:56:01,622 INFO This is for train metrix [[711  11]
+ [ 58  20]]
+2024-12-06 22:56:05,235 INFO this is for testing metrix [[307   9]
+ [ 26   8]]
+2024-12-06 22:56:09,356 INFO This is f1 score for train data: 0.3669724770642202
+2024-12-06 22:56:09,357 INFO This is f1 score for valid data: 0.3137254901960784
+2024-12-06 22:57:07,469 INFO This is for train metrix 
+[[711  11]
+ [ 58  20]]
+2024-12-06 22:57:25,283 INFO this is for testing metrix 
+[[307   9]
+ [ 26   8]]
+2024-12-06 22:57:33,372 INFO this is for testing metrix 
+[[307   9]
+ [ 26   8]]
+2024-12-06 22:57:35,447 INFO This is f1 score for train data: 0.3669724770642202
+2024-12-06 22:57:35,448 INFO This is f1 score for valid data: 0.3137254901960784
