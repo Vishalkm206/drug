@@ -38,3 +38,549 @@
  [ 26   8]]
 2024-12-06 22:57:35,447 INFO This is f1 score for train data: 0.3669724770642202
 2024-12-06 22:57:35,448 INFO This is f1 score for valid data: 0.3137254901960784
+2024-12-06 23:46:54,821 INFO checking our model with DECISION TREE CLASSIFIER
+2024-12-06 23:50:06,350 INFO checking our model with DECISION TREE CLASSIFIER
+2024-12-06 23:50:08,218 INFO checking our model with DECISION TREE CLASSIFIER
+2024-12-10 22:56:56,610 INFO checking our model with DECISION TREE CLASSIFIER
+2024-12-10 22:57:07,588 INFO checking our model with DECISION TREE CLASSIFIER
+2024-12-10 22:57:13,859 INFO loading the data....
+2024-12-10 22:57:15,142 INFO created an empty dataframe of 100000 features
+2024-12-10 23:00:07,189 INFO all the entries are pushed into the dataframe successfully
+2024-12-10 23:00:12,685 INFO created an empty dataframe of 100000 features
+2024-12-10 23:01:14,395 INFO all the entries are pushed into the dataframe successfully
+2024-12-10 23:01:14,395 INFO all the files are loaded successfully and splitted into train data, valid and train label
+2024-12-10 23:01:14,600 INFO decomposing our data into 5 components
+2024-12-10 23:01:26,916 INFO checking our model with logistic regression
+2024-12-10 23:01:26,932 INFO model fitted successfully 
+2024-12-10 23:01:26,932 INFO This is for train metrix 
+[[711  11]
+ [ 58  20]]
+2024-12-10 23:01:26,947 INFO this is for testing metrix 
+[[307   9]
+ [ 27   7]]
+2024-12-10 23:01:26,947 INFO This is f1 score for train data: 0.3669724770642202
+2024-12-10 23:01:26,947 INFO This is f1 score for valid data: 0.28
+2024-12-10 23:01:27,026 INFO checking our model with DECISION TREE CLASSIFIER
+2024-12-17 22:27:48,631 INFO loading the data....
+2024-12-17 22:27:49,887 INFO created an empty dataframe of 100000 features
+2024-12-17 22:29:26,921 INFO all the entries are pushed into the dataframe successfully
+2024-12-17 22:29:28,064 INFO created an empty dataframe of 100000 features
+2024-12-17 22:29:51,568 INFO all the entries are pushed into the dataframe successfully
+2024-12-17 22:29:51,569 INFO all the files are loaded successfully and splitted into train data, valid and train label
+2024-12-17 22:29:56,391 INFO decomposing our data into 5 components
+2024-12-17 22:29:59,914 INFO checking our model with logistic regression
+2024-12-17 22:29:59,925 INFO model fitted successfully 
+2024-12-17 22:29:59,927 INFO This is for train metrix 
+[[711  11]
+ [ 58  20]]
+2024-12-17 22:29:59,928 INFO this is for testing metrix 
+[[307   9]
+ [ 26   8]]
+2024-12-17 22:29:59,930 INFO This is f1 score for train data: 0.3669724770642202
+2024-12-17 22:29:59,931 INFO This is f1 score for valid data: 0.3137254901960784
+2024-12-17 22:30:00,074 INFO checking our model with KNeighbors CLASSIFIER
+2024-12-17 22:30:00,077 INFO model fitted successfully 
+2024-12-17 22:30:00,105 INFO This is for train metrix 
+[[709  13]
+ [ 37  41]]
+2024-12-17 22:30:00,106 INFO this is for testing metrix 
+[[312   4]
+ [ 33   1]]
+2024-12-17 22:30:00,107 INFO This is f1 score for train data: 0.6212121212121212
+2024-12-17 22:30:00,108 INFO This is f1 score for valid data: 0.05128205128205128
+2024-12-17 22:30:00,258 INFO checking our model with DECISION TREE CLASSIFIER
+2024-12-17 22:34:47,862 INFO checking our model with DECISION TREE CLASSIFIER
+2024-12-17 22:34:47,878 INFO model fitted successfully 
+2024-12-17 22:34:47,880 INFO This is for train metrix 
+[[722   0]
+ [  0  78]]
+2024-12-17 22:34:47,881 INFO this is for testing metrix 
+[[224  92]
+ [ 25   9]]
+2024-12-17 22:34:47,882 INFO This is f1 score for train data: 1.0
+2024-12-17 22:34:47,884 INFO This is f1 score for valid data: 0.13333333333333333
+2024-12-17 22:42:15,513 INFO checking our model with SVM CLASSIFIER
+2024-12-17 22:42:15,516 INFO model fitted successfully 
+2024-12-17 22:42:42,415 INFO checking our model with SVM CLASSIFIER
+2024-12-17 22:42:42,431 INFO model fitted successfully 
+2024-12-17 22:42:42,450 INFO This is for train metrix 
+[[720   2]
+ [ 66  12]]
+2024-12-17 22:42:42,451 INFO this is for testing metrix 
+[[315   1]
+ [ 33   1]]
+2024-12-17 22:42:42,454 INFO This is f1 score for train data: 0.2608695652173913
+2024-12-17 22:42:42,456 INFO This is f1 score for valid data: 0.05555555555555555
+2024-12-17 23:03:15,077 INFO checking our model with NAIVE BAYES
+2024-12-17 23:09:55,282 INFO loading the data....
+2024-12-17 23:09:56,514 INFO created an empty dataframe of 100000 features
+2024-12-17 23:12:04,701 INFO checking our model with NAIVE BAYES
+2024-12-17 23:12:04,704 INFO model fitted successfully 
+2024-12-17 23:12:04,705 INFO This is for train metrix 
+[[607 115]
+ [ 67  11]]
+2024-12-17 23:12:04,705 INFO this is for testing metrix 
+[[255  61]
+ [ 32   2]]
+2024-12-17 23:12:04,706 INFO This is f1 score for train data: 0.10784313725490197
+2024-12-17 23:12:04,708 INFO This is f1 score for valid data: 0.041237113402061855
+2024-12-17 23:14:00,189 INFO checking our model with NAIVE BAYES
+2024-12-17 23:14:00,195 INFO model fitted successfully 
+2024-12-17 23:14:00,201 INFO This is for train metrix 
+[[722   0]
+ [ 75   3]]
+2024-12-17 23:14:00,205 INFO this is for testing metrix 
+[[  4 312]
+ [  0  34]]
+2024-12-17 23:14:00,209 INFO This is f1 score for train data: 0.07407407407407407
+2024-12-17 23:14:00,213 INFO This is f1 score for valid data: 0.17894736842105263
+2024-12-17 23:16:53,475 INFO checking our model with NAIVE BAYES
+2024-12-17 23:16:53,479 INFO model fitted successfully 
+2024-12-17 23:17:13,494 INFO loading the data....
+2024-12-17 23:17:14,704 INFO created an empty dataframe of 100000 features
+2024-12-17 23:17:32,812 INFO loading the data....
+2024-12-17 23:17:34,006 INFO created an empty dataframe of 100000 features
+2024-12-17 23:18:07,547 INFO checking our model with NAIVE BAYES
+2024-12-17 23:18:07,551 INFO model fitted successfully 
+2024-12-17 23:20:17,060 INFO checking our model with NAIVE BAYES
+2024-12-17 23:20:17,063 INFO model fitted successfully 
+2024-12-17 23:20:17,065 INFO This is for train metrix 
+[[722   0]
+ [ 75   3]]
+2024-12-17 23:20:17,066 INFO this is for testing metrix 
+[[313   3]
+ [ 34   0]]
+2024-12-17 23:20:17,067 INFO This is f1 score for train data: 0.07407407407407407
+2024-12-17 23:20:17,068 INFO This is f1 score for valid data: 0.0
+2024-12-17 23:21:44,723 INFO checking our model with RANDOM FOREST
+2024-12-17 23:21:44,873 INFO model fitted successfully 
+2024-12-17 23:21:44,881 INFO This is for train metrix 
+[[722   0]
+ [  0  78]]
+2024-12-17 23:21:44,881 INFO this is for testing metrix 
+[[262  54]
+ [ 29   5]]
+2024-12-17 23:21:44,882 INFO This is f1 score for train data: 1.0
+2024-12-17 23:21:44,884 INFO This is f1 score for valid data: 0.10752688172043011
+2024-12-17 23:31:54,467 INFO best cr
+2024-12-17 23:43:00,317 INFO loading the data....
+2024-12-17 23:43:01,530 INFO created an empty dataframe of 100000 features
+2024-12-17 23:44:35,896 INFO all the entries are pushed into the dataframe successfully
+2024-12-17 23:44:37,045 INFO created an empty dataframe of 100000 features
+2024-12-17 23:45:00,672 INFO all the entries are pushed into the dataframe successfully
+2024-12-17 23:45:00,672 INFO all the files are loaded successfully and splitted into train data, valid and train label
+2024-12-17 23:45:02,710 INFO decomposing our data into 5 components
+2024-12-17 23:45:05,681 INFO checking our model with logistic regression
+2024-12-17 23:45:05,687 INFO model fitted successfully 
+2024-12-17 23:45:05,688 INFO This is for train metrix 
+[[711  11]
+ [ 58  20]]
+2024-12-17 23:45:05,689 INFO this is for testing metrix 
+[[307   9]
+ [ 27   7]]
+2024-12-17 23:45:05,690 INFO This is f1 score for train data: 0.3669724770642202
+2024-12-17 23:45:05,692 INFO This is f1 score for valid data: 0.28
+2024-12-17 23:45:05,739 INFO checking our model with KNeighbors CLASSIFIER
+2024-12-17 23:45:05,741 INFO model fitted successfully 
+2024-12-17 23:45:05,770 INFO This is for train metrix 
+[[709  13]
+ [ 35  43]]
+2024-12-17 23:45:05,771 INFO this is for testing metrix 
+[[313   3]
+ [ 32   2]]
+2024-12-17 23:45:05,772 INFO This is f1 score for train data: 0.6417910447761194
+2024-12-17 23:45:05,773 INFO This is f1 score for valid data: 0.10256410256410256
+2024-12-17 23:45:05,799 INFO checking our model with DECISION TREE CLASSIFIER
+2024-12-17 23:45:05,803 INFO model fitted successfully 
+2024-12-17 23:45:05,804 INFO This is for train metrix 
+[[722   0]
+ [  0  78]]
+2024-12-17 23:45:05,805 INFO this is for testing metrix 
+[[263  53]
+ [  7  27]]
+2024-12-17 23:45:05,807 INFO This is f1 score for train data: 1.0
+2024-12-17 23:45:05,808 INFO This is f1 score for valid data: 0.47368421052631576
+2024-12-17 23:45:05,814 INFO checking our model with SVM CLASSIFIER
+2024-12-17 23:45:05,821 INFO model fitted successfully 
+2024-12-17 23:45:05,834 INFO This is for train metrix 
+[[720   2]
+ [ 66  12]]
+2024-12-17 23:45:05,836 INFO this is for testing metrix 
+[[315   1]
+ [ 31   3]]
+2024-12-17 23:45:05,837 INFO This is f1 score for train data: 0.2608695652173913
+2024-12-17 23:45:05,839 INFO This is f1 score for valid data: 0.15789473684210525
+2024-12-17 23:45:05,846 INFO checking our model with RANDOM FOREST
+2024-12-17 23:45:05,989 INFO model fitted successfully 
+2024-12-17 23:45:05,998 INFO This is for train metrix 
+[[722   0]
+ [  0  78]]
+2024-12-17 23:45:05,999 INFO this is for testing metrix 
+[[288  28]
+ [ 22  12]]
+2024-12-17 23:45:06,000 INFO This is f1 score for train data: 1.0
+2024-12-17 23:45:06,001 INFO This is f1 score for valid data: 0.32432432432432434
+2024-12-18 00:06:09,039 INFO loading the data....
+2024-12-18 00:06:10,297 INFO created an empty dataframe of 100000 features
+2024-12-18 00:07:47,943 INFO all the entries are pushed into the dataframe successfully
+2024-12-18 00:07:49,202 INFO created an empty dataframe of 100000 features
+2024-12-18 00:08:13,548 INFO all the entries are pushed into the dataframe successfully
+2024-12-18 00:08:13,548 INFO all the files are loaded successfully and splitted into train data, valid and train label
+2024-12-18 00:08:20,414 INFO decomposing our data into 5 components
+2024-12-18 00:08:23,513 INFO checking our model with logistic regression
+2024-12-18 00:08:23,520 INFO model fitted successfully 
+2024-12-18 00:08:23,521 INFO This is for train metrix 
+[[711  11]
+ [ 58  20]]
+2024-12-18 00:08:23,522 INFO this is for testing metrix 
+[[307   9]
+ [ 27   7]]
+2024-12-18 00:08:23,525 INFO This is f1 score for train data: 0.3669724770642202
+2024-12-18 00:08:23,526 INFO This is f1 score for valid data: 0.28
+2024-12-18 00:08:23,647 INFO checking our model with KNeighbors CLASSIFIER
+2024-12-18 00:08:23,651 INFO model fitted successfully 
+2024-12-18 00:08:23,679 INFO This is for train metrix 
+[[710  12]
+ [ 36  42]]
+2024-12-18 00:08:23,680 INFO this is for testing metrix 
+[[313   3]
+ [ 31   3]]
+2024-12-18 00:08:23,680 INFO This is f1 score for train data: 0.6363636363636364
+2024-12-18 00:08:23,682 INFO This is f1 score for valid data: 0.15
+2024-12-18 00:08:23,821 INFO checking our model with DECISION TREE CLASSIFIER
+2024-12-18 00:08:23,827 INFO model fitted successfully 
+2024-12-18 00:08:23,829 INFO This is for train metrix 
+[[722   0]
+ [  0  78]]
+2024-12-18 00:08:23,830 INFO this is for testing metrix 
+[[238  78]
+ [  8  26]]
+2024-12-18 00:08:23,832 INFO This is f1 score for train data: 1.0
+2024-12-18 00:08:23,834 INFO This is f1 score for valid data: 0.37681159420289856
+2024-12-18 00:08:23,842 INFO checking our model with SVM CLASSIFIER
+2024-12-18 00:08:23,847 INFO model fitted successfully 
+2024-12-18 00:08:23,857 INFO This is for train metrix 
+[[720   2]
+ [ 66  12]]
+2024-12-18 00:08:23,858 INFO this is for testing metrix 
+[[315   1]
+ [ 32   2]]
+2024-12-18 00:08:23,858 INFO This is f1 score for train data: 0.2608695652173913
+2024-12-18 00:08:23,859 INFO This is f1 score for valid data: 0.10810810810810811
+2024-12-18 00:08:24,132 INFO checking our model with RANDOM FOREST
+2024-12-18 00:08:24,276 INFO model fitted successfully 
+2024-12-18 00:08:24,287 INFO This is for train metrix 
+[[722   0]
+ [  0  78]]
+2024-12-18 00:08:24,287 INFO this is for testing metrix 
+[[294  22]
+ [ 14  20]]
+2024-12-18 00:08:24,289 INFO This is f1 score for train data: 1.0
+2024-12-18 00:08:24,289 INFO This is f1 score for valid data: 0.5263157894736842
+2024-12-18 00:11:13,854 INFO checking our model with RANDOM FOREST
+2024-12-18 00:11:13,997 INFO model fitted successfully 
+2024-12-18 00:11:14,006 INFO This is for train metrix 
+[[722   0]
+ [  0  78]]
+2024-12-18 00:11:14,007 INFO this is for testing metrix 
+[[294  22]
+ [ 17  17]]
+2024-12-18 00:11:14,008 INFO This is f1 score for train data: 1.0
+2024-12-18 00:11:14,008 INFO This is f1 score for valid data: 0.4657534246575342
+2024-12-18 00:13:44,806 INFO checking our model with RANDOM FOREST
+2024-12-18 00:13:45,211 INFO model fitted successfully 
+2024-12-18 00:13:45,235 INFO This is for train metrix 
+[[714   8]
+ [ 19  59]]
+2024-12-18 00:13:45,236 INFO this is for testing metrix 
+[[293  23]
+ [ 18  16]]
+2024-12-18 00:13:45,237 INFO This is f1 score for train data: 0.8137931034482758
+2024-12-18 00:13:45,238 INFO This is f1 score for valid data: 0.4383561643835616
+2024-12-18 00:14:31,869 INFO checking our model with RANDOM FOREST
+2024-12-18 00:14:32,279 INFO model fitted successfully 
+2024-12-18 00:14:32,302 INFO This is for train metrix 
+[[715   7]
+ [ 17  61]]
+2024-12-18 00:14:32,303 INFO this is for testing metrix 
+[[298  18]
+ [ 21  13]]
+2024-12-18 00:14:32,304 INFO This is f1 score for train data: 0.8356164383561644
+2024-12-18 00:14:32,304 INFO This is f1 score for valid data: 0.4
+2024-12-18 00:15:13,170 INFO checking our model with RANDOM FOREST
+2024-12-18 00:15:13,701 INFO model fitted successfully 
+2024-12-18 00:15:13,733 INFO This is for train metrix 
+[[717   5]
+ [ 17  61]]
+2024-12-18 00:15:13,733 INFO this is for testing metrix 
+[[298  18]
+ [ 21  13]]
+2024-12-18 00:15:13,734 INFO This is f1 score for train data: 0.8472222222222222
+2024-12-18 00:15:13,735 INFO This is f1 score for valid data: 0.4
+2024-12-18 00:21:36,174 INFO checking our model with RANDOM FOREST
+2024-12-18 00:21:36,527 INFO model fitted successfully 
+2024-12-18 00:21:36,552 INFO This is for train metrix 
+[[714   8]
+ [ 27  51]]
+2024-12-18 00:21:36,553 INFO this is for testing metrix 
+[[300  16]
+ [ 22  12]]
+2024-12-18 00:21:36,554 INFO This is f1 score for train data: 0.7445255474452555
+2024-12-18 00:21:36,554 INFO This is f1 score for valid data: 0.3870967741935484
+2024-12-18 01:05:40,419 INFO loading the data....
+2024-12-18 01:05:42,011 INFO created an empty dataframe of 100000 features
+2024-12-18 01:06:04,330 INFO loading the data....
+2024-12-18 01:06:05,766 INFO created an empty dataframe of 100000 features
+2024-12-18 01:07:42,690 INFO all the entries are pushed into the dataframe successfully
+2024-12-18 01:07:43,836 INFO created an empty dataframe of 100000 features
+2024-12-18 01:08:08,310 INFO all the entries are pushed into the dataframe successfully
+2024-12-18 01:08:08,310 INFO all the files are loaded successfully and splitted into train data, valid and train label
+2024-12-18 01:08:11,205 INFO decomposing our data into 5 components
+2024-12-19 23:53:49,122 INFO loading the data....
+2024-12-19 23:53:50,385 INFO created an empty dataframe of 100000 features
+2024-12-19 23:56:21,153 INFO all the entries are pushed into the dataframe successfully
+2024-12-19 23:56:25,824 INFO created an empty dataframe of 100000 features
+2024-12-19 23:57:09,856 INFO all the entries are pushed into the dataframe successfully
+2024-12-19 23:57:09,856 INFO all the files are loaded successfully and splitted into train data, valid and train label
+2024-12-19 23:57:16,585 INFO decomposing our data into 5 components
+2024-12-20 00:05:25,909 ERROR exception calling callback for <Future at 0x190c05a65d0 state=finished returned list>
+Traceback (most recent call last):
+  File "e:\drug\myenv\Lib\site-packages\joblib\externals\loky\_base.py", line 26, in _invoke_callbacks
+    callback(self)
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 828, in __call__
+    self._dispatch_new()
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 843, in _dispatch_new
+    self.parallel.dispatch_next()
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1429, in dispatch_next
+    if not self.dispatch_one_batch(self._original_iterator):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1517, in dispatch_one_batch
+    self._dispatch(tasks)
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1418, in _dispatch
+    job = self._backend.apply_async(batch, callback=batch_tracker)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\drug\myenv\Lib\site-packages\joblib\_parallel_backends.py", line 588, in apply_async
+    future = self._workers.submit(func)
+             ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'submit'
+2024-12-20 00:05:26,032 ERROR exception calling callback for <Future at 0x190d97699d0 state=finished returned list>
+Traceback (most recent call last):
+  File "e:\drug\myenv\Lib\site-packages\joblib\externals\loky\_base.py", line 26, in _invoke_callbacks
+    callback(self)
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 828, in __call__
+    self._dispatch_new()
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 843, in _dispatch_new
+    self.parallel.dispatch_next()
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1429, in dispatch_next
+    if not self.dispatch_one_batch(self._original_iterator):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1517, in dispatch_one_batch
+    self._dispatch(tasks)
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1418, in _dispatch
+    job = self._backend.apply_async(batch, callback=batch_tracker)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\drug\myenv\Lib\site-packages\joblib\_parallel_backends.py", line 588, in apply_async
+    future = self._workers.submit(func)
+             ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'submit'
+2024-12-20 00:05:26,035 ERROR exception calling callback for <Future at 0x190c059da00 state=finished returned list>
+Traceback (most recent call last):
+  File "e:\drug\myenv\Lib\site-packages\joblib\externals\loky\_base.py", line 26, in _invoke_callbacks
+    callback(self)
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 828, in __call__
+    self._dispatch_new()
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 843, in _dispatch_new
+    self.parallel.dispatch_next()
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1429, in dispatch_next
+    if not self.dispatch_one_batch(self._original_iterator):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1517, in dispatch_one_batch
+    self._dispatch(tasks)
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1418, in _dispatch
+    job = self._backend.apply_async(batch, callback=batch_tracker)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\drug\myenv\Lib\site-packages\joblib\_parallel_backends.py", line 588, in apply_async
+    future = self._workers.submit(func)
+             ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'submit'
+2024-12-20 00:05:26,037 ERROR exception calling callback for <Future at 0x190da3cf7a0 state=finished returned list>
+Traceback (most recent call last):
+  File "e:\drug\myenv\Lib\site-packages\joblib\externals\loky\_base.py", line 26, in _invoke_callbacks
+    callback(self)
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 828, in __call__
+    self._dispatch_new()
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 843, in _dispatch_new
+    self.parallel.dispatch_next()
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1429, in dispatch_next
+    if not self.dispatch_one_batch(self._original_iterator):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1517, in dispatch_one_batch
+    self._dispatch(tasks)
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1418, in _dispatch
+    job = self._backend.apply_async(batch, callback=batch_tracker)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\drug\myenv\Lib\site-packages\joblib\_parallel_backends.py", line 588, in apply_async
+    future = self._workers.submit(func)
+             ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'submit'
+2024-12-20 00:05:26,038 ERROR exception calling callback for <Future at 0x190c05bf020 state=finished returned list>
+Traceback (most recent call last):
+  File "e:\drug\myenv\Lib\site-packages\joblib\externals\loky\_base.py", line 26, in _invoke_callbacks
+    callback(self)
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 828, in __call__
+    self._dispatch_new()
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 843, in _dispatch_new
+    self.parallel.dispatch_next()
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1429, in dispatch_next
+    if not self.dispatch_one_batch(self._original_iterator):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1517, in dispatch_one_batch
+    self._dispatch(tasks)
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1418, in _dispatch
+    job = self._backend.apply_async(batch, callback=batch_tracker)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\drug\myenv\Lib\site-packages\joblib\_parallel_backends.py", line 588, in apply_async
+    future = self._workers.submit(func)
+             ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'submit'
+2024-12-20 00:05:26,040 ERROR exception calling callback for <Future at 0x190db8e3530 state=finished returned list>
+Traceback (most recent call last):
+  File "e:\drug\myenv\Lib\site-packages\joblib\externals\loky\_base.py", line 26, in _invoke_callbacks
+    callback(self)
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 828, in __call__
+    self._dispatch_new()
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 843, in _dispatch_new
+    self.parallel.dispatch_next()
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1429, in dispatch_next
+    if not self.dispatch_one_batch(self._original_iterator):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1517, in dispatch_one_batch
+    self._dispatch(tasks)
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1418, in _dispatch
+    job = self._backend.apply_async(batch, callback=batch_tracker)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\drug\myenv\Lib\site-packages\joblib\_parallel_backends.py", line 588, in apply_async
+    future = self._workers.submit(func)
+             ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'submit'
+2024-12-20 00:05:26,041 ERROR exception calling callback for <Future at 0x190c050fda0 state=finished returned list>
+Traceback (most recent call last):
+  File "e:\drug\myenv\Lib\site-packages\joblib\externals\loky\_base.py", line 26, in _invoke_callbacks
+    callback(self)
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 828, in __call__
+    self._dispatch_new()
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 843, in _dispatch_new
+    self.parallel.dispatch_next()
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1429, in dispatch_next
+    if not self.dispatch_one_batch(self._original_iterator):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1517, in dispatch_one_batch
+    self._dispatch(tasks)
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1418, in _dispatch
+    job = self._backend.apply_async(batch, callback=batch_tracker)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\drug\myenv\Lib\site-packages\joblib\_parallel_backends.py", line 588, in apply_async
+    future = self._workers.submit(func)
+             ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'submit'
+2024-12-20 00:05:26,042 ERROR exception calling callback for <Future at 0x190da0c5760 state=finished returned list>
+Traceback (most recent call last):
+  File "e:\drug\myenv\Lib\site-packages\joblib\externals\loky\_base.py", line 26, in _invoke_callbacks
+    callback(self)
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 828, in __call__
+    self._dispatch_new()
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 843, in _dispatch_new
+    self.parallel.dispatch_next()
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1429, in dispatch_next
+    if not self.dispatch_one_batch(self._original_iterator):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1517, in dispatch_one_batch
+    self._dispatch(tasks)
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1418, in _dispatch
+    job = self._backend.apply_async(batch, callback=batch_tracker)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\drug\myenv\Lib\site-packages\joblib\_parallel_backends.py", line 588, in apply_async
+    future = self._workers.submit(func)
+             ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'submit'
+2024-12-20 00:05:26,043 ERROR exception calling callback for <Future at 0x190c050dd60 state=finished returned list>
+Traceback (most recent call last):
+  File "e:\drug\myenv\Lib\site-packages\joblib\externals\loky\_base.py", line 26, in _invoke_callbacks
+    callback(self)
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 828, in __call__
+    self._dispatch_new()
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 843, in _dispatch_new
+    self.parallel.dispatch_next()
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1429, in dispatch_next
+    if not self.dispatch_one_batch(self._original_iterator):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1517, in dispatch_one_batch
+    self._dispatch(tasks)
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1418, in _dispatch
+    job = self._backend.apply_async(batch, callback=batch_tracker)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\drug\myenv\Lib\site-packages\joblib\_parallel_backends.py", line 588, in apply_async
+    future = self._workers.submit(func)
+             ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'submit'
+2024-12-20 00:05:26,047 ERROR exception calling callback for <Future at 0x190c05bf590 state=finished returned list>
+Traceback (most recent call last):
+  File "e:\drug\myenv\Lib\site-packages\joblib\externals\loky\_base.py", line 26, in _invoke_callbacks
+    callback(self)
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 828, in __call__
+    self._dispatch_new()
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 843, in _dispatch_new
+    self.parallel.dispatch_next()
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1429, in dispatch_next
+    if not self.dispatch_one_batch(self._original_iterator):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1517, in dispatch_one_batch
+    self._dispatch(tasks)
+  File "e:\drug\myenv\Lib\site-packages\joblib\parallel.py", line 1418, in _dispatch
+    job = self._backend.apply_async(batch, callback=batch_tracker)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\drug\myenv\Lib\site-packages\joblib\_parallel_backends.py", line 588, in apply_async
+    future = self._workers.submit(func)
+             ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'submit'
+2024-12-20 00:19:03,464 INFO loading the data....
+2024-12-20 00:19:04,777 INFO created an empty dataframe of 100000 features
+2024-12-20 00:21:25,528 INFO all the entries are pushed into the dataframe successfully
+2024-12-20 00:21:26,903 INFO created an empty dataframe of 100000 features
+2024-12-20 00:21:52,224 INFO all the entries are pushed into the dataframe successfully
+2024-12-20 00:21:52,224 INFO all the files are loaded successfully and splitted into train data, valid and train label
+2024-12-20 00:21:55,206 INFO decomposing our data into 5 components
+2024-12-20 00:24:19,584 INFO loading the data....
+2024-12-20 00:24:20,856 INFO created an empty dataframe of 100000 features
+2024-12-20 00:32:23,468 INFO loading the data....
+2024-12-20 00:32:24,734 INFO created an empty dataframe of 100000 features
+2024-12-20 00:34:04,524 INFO all the entries are pushed into the dataframe successfully
+2024-12-20 00:34:05,719 INFO created an empty dataframe of 100000 features
+2024-12-20 00:34:30,589 INFO all the entries are pushed into the dataframe successfully
+2024-12-20 00:34:30,590 INFO all the files are loaded successfully and splitted into train data, valid and train label
+2024-12-20 00:34:33,404 INFO decomposing our data into 5 components
+2024-12-20 00:45:39,725 INFO loading the data....
+2024-12-20 00:45:41,001 INFO created an empty dataframe of 100000 features
+2024-12-20 00:47:48,568 INFO loading the data....
+2024-12-20 00:47:49,836 INFO created an empty dataframe of 100000 features
+2024-12-20 00:59:39,240 INFO loading the data....
+2024-12-20 00:59:40,610 INFO created an empty dataframe of 100000 features
+2024-12-20 01:01:18,590 INFO all the entries are pushed into the dataframe successfully
+2024-12-20 01:01:19,808 INFO created an empty dataframe of 100000 features
+2024-12-20 01:01:45,164 INFO all the entries are pushed into the dataframe successfully
+2024-12-20 01:01:45,164 INFO all the files are loaded successfully and splitted into train data, valid and train label
+2024-12-20 01:01:52,223 INFO decomposing our data into 5 components
+2024-12-20 01:20:32,769 INFO loading the data....
+2024-12-20 01:20:34,018 INFO created an empty dataframe of 100000 features
+2024-12-20 01:22:07,601 INFO all the entries are pushed into the dataframe successfully
+2024-12-20 01:22:08,762 INFO created an empty dataframe of 100000 features
+2024-12-20 01:22:32,393 INFO all the entries are pushed into the dataframe successfully
+2024-12-20 01:22:32,394 INFO all the files are loaded successfully and splitted into train data, valid and train label
+2024-12-20 01:22:34,967 INFO decomposing our data into 5 components
+2024-12-20 01:25:19,479 INFO loading the data....
+2024-12-20 01:25:20,702 INFO created an empty dataframe of 100000 features
+2024-12-20 01:26:54,227 INFO all the entries are pushed into the dataframe successfully
+2024-12-20 01:26:55,370 INFO created an empty dataframe of 100000 features
+2024-12-20 01:27:19,182 INFO all the entries are pushed into the dataframe successfully
+2024-12-20 01:27:19,182 INFO all the files are loaded successfully and splitted into train data, valid and train label
+2024-12-20 01:27:21,788 INFO decomposing our data into 5 components
